@@ -5,8 +5,8 @@
     "archive": "https://github.com/maverill88/spyder-external-updates/releases/download/external-latest/DeliverySpyderShell-win-x64.zip"
   },
   "Update_spyder": {
-    "version": "2.7.5.6",
-    "sha256": "821b61dd70f4b39ec51887ef1b44266d13a53f511a549183f4f4a9b7aaeaa190",
+    "version": "2.7.5.7",
+    "sha256": "2ae55eac380e996801df2da4883f61854f76bcce43853f65cd2864b38717f605",
     "file": "https://github.com/maverill88/spyder-external-updates/releases/download/external-latest/Update_spyder.exe"
   },
   "G-code spyder": {
