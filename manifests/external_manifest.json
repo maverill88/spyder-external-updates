@@ -10,8 +10,8 @@
     "file": "https://github.com/maverill88/spyder-external-updates/releases/download/external-latest/Update_spyder.exe"
   },
   "G-code spyder": {
-    "version": "3.6.8",
-    "sha256": "1071492311977910c78a596e2c0f9db4e1658135066004df733a73b5bfecafcc",
+    "version": "3.6.8.1",
+    "sha256": "fb6825d8351a908eec5a56d7dcd62a0dec093188ef9c8e3ca61974537403e4a0",
     "file": "https://github.com/maverill88/spyder-external-updates/releases/download/external-latest/G-code spyder.exe"
   }
 }
