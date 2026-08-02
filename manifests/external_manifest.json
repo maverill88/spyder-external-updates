@@ -1,7 +1,7 @@
 {
   "Delivery Spyder Shell": {
-    "version": "2.8.6.8",
-    "sha256": "ba4d0ed66e825d84c13acbca059b1382603189a275f40d5d3561945ac41280c1",
+    "version": "2.8.7",
+    "sha256": "b74761c8e4f7744f364fec161997a72eca0f7d12c944b4fcea4bc1fbad287172",
     "archive": "https://github.com/maverill88/spyder-external-updates/releases/download/external-latest/DeliverySpyderShell-win-x64.zip"
   },
   "Update_spyder": {
